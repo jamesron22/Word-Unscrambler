@@ -1,0 +1,7 @@
+C:\Users\Faceberg\Desktop\CSharpPractice\Projects\WordUnscrambler\WordUnscrambler\WordUnscrambler\bin\Debug\WordUnscrambler.exe.config
+C:\Users\Faceberg\Desktop\CSharpPractice\Projects\WordUnscrambler\WordUnscrambler\WordUnscrambler\bin\Debug\WordUnscrambler.exe
+C:\Users\Faceberg\Desktop\CSharpPractice\Projects\WordUnscrambler\WordUnscrambler\WordUnscrambler\bin\Debug\WordUnscrambler.pdb
+C:\Users\Faceberg\Desktop\CSharpPractice\Projects\WordUnscrambler\WordUnscrambler\WordUnscrambler\obj\Debug\WordUnscrambler.csprojAssemblyReference.cache
+C:\Users\Faceberg\Desktop\CSharpPractice\Projects\WordUnscrambler\WordUnscrambler\WordUnscrambler\obj\Debug\WordUnscrambler.csproj.CoreCompileInputs.cache
+C:\Users\Faceberg\Desktop\CSharpPractice\Projects\WordUnscrambler\WordUnscrambler\WordUnscrambler\obj\Debug\WordUnscrambler.exe
+C:\Users\Faceberg\Desktop\CSharpPractice\Projects\WordUnscrambler\WordUnscrambler\WordUnscrambler\obj\Debug\WordUnscrambler.pdb
